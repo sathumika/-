@@ -1,0 +1,2 @@
+weight = 28
+print (weight)
